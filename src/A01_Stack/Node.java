@@ -1,4 +1,6 @@
 package A01_Stack;
+// Petra Unger
+//27.11.2024
 
 public class Node<T>
 {
