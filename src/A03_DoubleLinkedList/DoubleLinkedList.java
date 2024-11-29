@@ -257,6 +257,7 @@ public class DoubleLinkedList<T> {
      * und setzt dann die neu eingefügte <T> als aktuelle (current) <T>.
      *
      * @throws CurrentNotSetException
+     *
      */
     public void insertAfterCurrentAndMove(T a) throws CurrentNotSetException {
 
