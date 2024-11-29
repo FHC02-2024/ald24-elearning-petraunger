@@ -1,5 +1,6 @@
 package A03_DoubleLinkedList;
-
+// Petra Unger
+//27.11.2024
 public class Node <T>
 {
     private final T data;
